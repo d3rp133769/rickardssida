@@ -95,9 +95,3 @@ th,td {
   float: right;
   margin: 10px 40px 30px 0px;
 }
-
-.flex {
-  flex-wrap: nowrap;
-  flex-direction: row;
-  justify-content:left;
-}
